@@ -1,4 +1,4 @@
-# 🎮 JavaAnimation2
+# 🎮 JavaAnimation
 
 This repository contains lab work for **Object-Oriented Software Development** using JavaFX.  
 Each lab builds upon the previous one, enhancing the JavaAnimation application with new features, improved design, and better software engineering practices.  
